@@ -36,17 +36,16 @@ h2 {
   background-color: #ff69b4; /* Hot pink background for checked radio button */
 }
 
-/* Additional styles for a more feminine touch */
 label {
-  color: #ff69b4; /* Hot pink label text */
+  color: #ff69b4;
 }
 
 input[type="text"]::placeholder {
-  color: #ff69b4; /* Hot pink placeholder text */
+  color: #ff69b4;
 }
 
 .container {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* Feminine font */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .textDeco {
   color: #ff69b4;
